@@ -8,3 +8,4 @@ musangi/musangi is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 [![Musangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=musangi)](https://github.com/anuraghazra/github-readme-stats)
+![Musangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=musangi&show_icons=true&theme=radical)
