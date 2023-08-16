@@ -2,5 +2,5 @@
 - 👀 I’m interested in software development and product design
 - 📫 How to reach me Email:faithmusangi@gmail.com
 
-[![Musangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=musangi)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=musangi&langs_count=6&theme=tokyonight)]()
 
